@@ -4,7 +4,7 @@
     "standalone": true,
     "standaloneProtocol": "neo4j",
     "standaloneHost": "21246ab8.databases.neo4j.io",
-    "standalonePort": "7687",
+    "standalonePort": "7474",
     "standaloneDatabase": "neo4j",
     "standaloneDashboardName": "IMPAX DEMO",
     "standaloneDashboardDatabase": "neo4j",
